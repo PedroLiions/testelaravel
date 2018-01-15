@@ -81,6 +81,7 @@
                 <div class="title m-b-md">
                     Home Laravel
                 </div>
+                <p>Pedro esteve aqui</p>
                 <button>Primeiro Button</button>
                 <p>Cecília was here!</p>
             </div>
